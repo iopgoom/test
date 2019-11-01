@@ -1,0 +1,33 @@
+/* 노멀라이즈 st */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul , li {
+    list-style: none;
+}
+
+a {
+    color: inherit ;
+    text-decoration: none;
+}
+
+/* 노멀라이즈 en */
+/*  폰트 적용 st */
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+html {
+    font-family: "Noto Sans KR", sans-serif;
+}
+/*  폰트 적용 en */
+
+
+
+
+
+
+
+
+
